@@ -11,3 +11,4 @@ From there I needed to add to add <alt> elements to the images that were given i
 ## The final product
 
 ![The webpage](./assets/images/final-website.jpg)
+As you can see the final webpage still looks like the origenal webpage disign but the code had been optimized.
